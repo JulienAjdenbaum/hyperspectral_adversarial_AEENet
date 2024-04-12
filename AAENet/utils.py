@@ -1,4 +1,4 @@
-# Functions from the lab session on hyperspectral unmixing
+# Functions from the lab session by Christophe Kervazo on hyperspectral unmixing
 
 import numpy as np
 
