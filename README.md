@@ -1,4 +1,4 @@
-AAENET
+# Remote sensing - AAENET
 
 This repository contains our code for our remote sensing project about Adversarial Autoencoder Network.
 
